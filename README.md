@@ -1,9 +1,13 @@
 ## 🎧 About My Playlist
 
-This dataset represents the music I currently listen to every day.
+This dataset represents my current everyday listening.
 
-Lately, I have been especially interested in female singers and artists, and I noticed that most of the music I keep returning to comes from women with very distinctive sounds. Rather than deliberately choosing one genre, my everyday playlist developed naturally around artists and songs that caught my attention.
+My music taste is very broad. I listen to many different genres, from R&B, which is one of my favorites, to Celtic music and many other styles. For this project, I am starting with the music I have been listening to most consistently lately.
 
-Some have been part of my listening habits for longer, while others are recent discoveries. Eartheater's "Vasp in the Fig" and Fine's "A Star", for example, are recent discoveries, and "Vasp in the Fig" has been particularly on repeat. Fleetwood Mac's "Sisters of the Moon" is one of my favorites.
+Recently, I have been especially interested in female artists and vocalists, which makes this current listening phase easier to document as a focused dataset. The songs in this project are part of my everyday rotation, although they do not represent the full range of music I listen to.
 
-I decided to use this everyday playlist as the starting point for a Python data analysis project. As the dataset grows, I want to explore the patterns behind the music I naturally gravitate toward rather than simply describing my taste by genre.
+Some songs have been favorites for a long time, while others are recent discoveries. Kelela's "Linknb" has been my favorite song since it was released. Eartheater's "Vasp in the Fig" and Fine's "A Star" are more recent discoveries, with "Vasp in the Fig" currently on repeat. Fleetwood Mac's "Sisters of the Moon" is also one of my favorites.
+
+As the project grows, I plan to add more genres and expand the dataset beyond my current female-artist-focused rotation.
+
+The goal of this project is to use Python to explore patterns in the music I naturally return to, while also observing how my listening habits change over time.
