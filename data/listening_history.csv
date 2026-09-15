@@ -1,20 +1,20 @@
-artist,song,listening_group,discovery,favorite,notes
-Solange,Almeda,Everyday playlist,Existing,No,
-Solange,Jerrod,Everyday playlist,Existing,No,
-Kelela,Linknb,Everyday playlist,Existing,Yes,Favorite song since its release
-Kelela,Sorbet,Everyday playlist,Existing,No,
-PinkPantheress,Reason,Everyday playlist,Existing,No,
-Azealia Banks,Heavy Metal and Reflective,Everyday playlist,Existing,No,
-SOPHIE,Is It Cold in the Water?,Everyday playlist,Existing,No,
-Pearly Drops,Oppressive Face,Everyday playlist,Existing,No,
-FKA twigs,Lightbeamers,Everyday playlist,Existing,No,
-Operelly,Encyclopedia,Everyday playlist,Existing,No,
-James K,Doom Bikini,Everyday playlist,Existing,No,
-Eartheater,Vasp in the Fig,Everyday playlist,Recent,No,Recently discovered and on repeat
-Fine,A Star,Everyday playlist,Recent,No,Recently discovered
-Acopia,Falling,Everyday playlist,Existing,No,
-Fleetwood Mac,Sisters of the Moon,Everyday playlist,Existing,Yes,One of my favorites
-Fever Ray,Keep the Streets Empty for Me,Everyday playlist,Existing,No,
-Beach House,Black Car,Everyday playlist,Existing,No,
-FKA twigs,How's That,Everyday playlist,Existing,No,
-Grimes,Devon,Everyday playlist,Existing,No,
+artist,song,listening_group,discovery,favorite,notes,genre,subgenre,release_year,artist_origin
+Solange,Almeda,Everyday playlist,Existing,No,,R&B,Alternative R&B,2019,USA
+Solange,Jerrod,Everyday playlist,Existing,No,,R&B,Alternative R&B,2019,USA
+Kelela,linknb,Everyday playlist,Existing,Yes,Favorite song since its release,R&B,Alternative R&B,2023,USA
+Kelela,Sorbet,Everyday playlist,Existing,No,,R&B,Alternative R&B,2023,USA
+PinkPantheress,Reason,Everyday playlist,Existing,No,,Pop,Drum and Bass / UK Garage,2021,UK
+Azealia Banks,Heavy Metal and Reflective,Everyday playlist,Existing,No,,Hip-Hop,Trap,2014,USA
+SOPHIE,Is It Cold in the Water?,Everyday playlist,Existing,No,,Electronic,Experimental Electronic,2018,UK
+Pearly Drops,Oppressive Face,Everyday playlist,Existing,No,,Pop,Dream Pop,2020,Finland
+FKA twigs,lightbeamers,Everyday playlist,Existing,No,,Electronic,Art Pop / Experimental,2025,UK
+Operelly,Encyclopedia,Everyday playlist,Existing,No,,Pop,Experimental Pop,2022,USA
+james K,Doom Bikini,Everyday playlist,Existing,No,,Electronic,Dream Pop / Ambient Pop,2025,USA
+Eartheater,Vasp in the Fig,Everyday playlist,Recent,No,Recently discovered and on repeat,Electronic,Experimental / Art Pop,2024,USA
+Fine,A Star,Everyday playlist,Recent,No,Recently discovered,Pop,Dream Pop,2024,Denmark
+Acopia,Falling,Everyday playlist,Existing,No,,Electronic,Dream Pop / Downtempo,2025,Australia
+Fleetwood Mac,Sisters of the Moon,Everyday playlist,Existing,Yes,One of my favorites,Rock,Rock / Hard Rock,1979,UK / USA
+Fever Ray,Keep the Streets Empty for Me,Everyday playlist,Existing,No,,Electronic,Art Pop / Dark Electronic,2009,Sweden
+Beach House,Black Car,Everyday playlist,Existing,No,,Pop,Dream Pop,2018,USA
+FKA twigs,How's That,Everyday playlist,Existing,No,,Electronic,Experimental R&B,2013,UK
+Grimes,Devon,Everyday playlist,Existing,No,,Electronic,Dream Pop / Lo-fi,2010,Canada
